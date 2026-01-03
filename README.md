@@ -6,19 +6,19 @@ This project focuses on analyzing marketing campaign and customer data to identi
 The project was completed as part of an Applied Data Science with Python program and is aligned with real-world marketing analytics and business decision-making use cases.
 
 **Objectives**<br>
-Understand customer demographics and spending behavior<br>
-Analyze performance across different sales channels (web, store, catalog)<br>
-Evaluate factors influencing campaign acceptance<br>
-Test business-driven hypotheses using data and statistics<br>
+a. Understand customer demographics and spending behavior<br>
+b. Analyze performance across different sales channels (web, store, catalog)<br>
+c. Evaluate factors influencing campaign acceptance<br>
+d. Test business-driven hypotheses using data and statistics<br>
 
 **Dataset Description**
 
 The dataset includes:<br>
-Customer demographics (age, education, marital status, country)<br>
-Income and spending behavior across multiple product categories<br>
-Purchase channels (web, store, catalog)<br>
-Marketing campaign responses<br>
-Customer complaints and engagement indicators<br>
+a. Customer demographics (age, education, marital status, country)<br>
+b. Income and spending behavior across multiple product categories<br>
+c. Purchase channels (web, store, catalog)<br>
+d. Marketing campaign responses<br>
+e. Customer complaints and engagement indicators<br>
 
 **Key Steps Performed**<br>
 
@@ -72,13 +72,13 @@ e. Jupyter Notebook<br>
 │   └── marketing_campaign_analysis.ipynb<br>
 ├── README.md<br>
 
-**How to Run the Project**
-a. Clone the repository
-b. Install required libraries:
-    pip install pandas numpy matplotlib seaborn scipy
-c. Open the Jupyter Notebook:
-    jupyter notebook
-    Run marketing_campaign_analysis.ipynb
+**How to Run the Project**<br>
+a. Clone the repository<br>
+b. Install required libraries:<br>
+    pip install pandas numpy matplotlib seaborn scipy<br>
+c. Open the Jupyter Notebook:<br>
+    jupyter notebook<br>
+    Run marketing_campaign_analysis.ipynb<br>
 
 **Key Learning Outcomes**<br>
 Practical experience in EDA and statistical analysis<br>
@@ -86,7 +86,7 @@ Hands-on feature engineering for business analytics<br>
 Applying statistics to test real-world business hypotheses<br>
 Translating data findings into actionable insights<br>
 
-👤 Author
-Ashwani Mishra
-Business & Data Analyst | Data Science & AI (In Progress)
+👤 Author<br>
+Ashwani Mishra<br>
+Business & Data Analyst | Data Science & AI (In Progress)<br>
 LinkedIn: https://www.linkedin.com/in/ashwanimishra
